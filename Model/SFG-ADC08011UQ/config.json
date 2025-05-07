@@ -1,0 +1,56 @@
+{
+    "name_model": "SFG-ADC08011UQ",
+    "shapes": {
+        "Box": [
+            122,
+            103,
+            2022,
+            3275
+        ]
+    },
+    "model_ai": {
+        "model_name": "rack_ocdu_2.pt",
+        "classes_name": "classes_ocdu.txt",
+        "threshold": "0"
+    },
+    "hardware": {
+        "server": {
+            "ip": "127.0.0.1",
+            "port": "5000"
+        },
+        "camera": {
+            "id": "DA5033663",
+            "feature": "feature3.ini",
+            "name": "HIK"
+        },
+        "lighting": {
+            "comport": "COM3",
+            "baudrate": "50",
+            "channel_value_0": 50,
+            "channel_value_1": 200,
+            "channel_value_2": 200,
+            "channel_value_3": 200,
+            "controller": "LCPController",
+            "delay": 150
+        },
+        "system": {
+            "log_dir": "",
+            "log_size": 0.0,
+            "auto_start": false,
+            "database_path": "database.db"
+        },
+        "io": {
+            "comport": "COM14",
+            "baudrate": "19200",
+            "delay": "1"
+        },
+        "scanner": {
+            "comport": "COM12",
+            "baudrate": "9600"
+        },
+        "send_data": {
+            "comport": "COM60",
+            "baudrate": "9600"
+        }
+    }
+}

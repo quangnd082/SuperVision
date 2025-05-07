@@ -1,0 +1,56 @@
+{
+    "name_model": "SLS-BB006011EX",
+    "shapes": {
+        "Box": [
+            2695,
+            20,
+            1754,
+            3563
+        ]
+    },
+    "model_ai": {
+        "model_name": "rack_ocdu_2.pt",
+        "classes_name": "classes_ocdu.txt",
+        "threshold": "0"
+    },
+    "hardware": {
+        "server": {
+            "ip": "127.0.0.1",
+            "port": "5000"
+        },
+        "camera": {
+            "id": "DA5033663",
+            "feature": "feature1.ini",
+            "name": "HIK"
+        },
+        "lighting": {
+            "comport": "COM3",
+            "baudrate": "9600",
+            "channel_value_0": 50,
+            "channel_value_1": 200,
+            "channel_value_2": 200,
+            "channel_value_3": 200,
+            "controller": "LCPController",
+            "delay": 150
+        },
+        "system": {
+            "log_dir": "",
+            "log_size": 0.0,
+            "auto_start": false,
+            "database_path": "database.db"
+        },
+        "io": {
+            "comport": "COM13",
+            "baudrate": "19200",
+            "delay": "10"
+        },
+        "scanner": {
+            "comport": "COM12",
+            "baudrate": "9600"
+        },
+        "send_data": {
+            "comport": "COM60",
+            "baudrate": "9600"
+        }
+    }
+}

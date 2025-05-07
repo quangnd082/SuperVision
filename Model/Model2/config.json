@@ -1,0 +1,49 @@
+{
+    "name_model": "Model2",
+    "shapes": {},
+    "model_ai": {
+        "model_name": "best_doc.pt",
+        "classes_name": "classes_doc.txt",
+        "threshold": "0"
+    },
+    "hardware": {
+        "server": {
+            "ip": "127.0.0.1",
+            "port": "5000"
+        },
+        "camera": {
+            "id": "DA5033663",
+            "feature": "feature1.ini",
+            "name": "Webcam"
+        },
+        "lighting": {
+            "comport": "COM13",
+            "baudrate": "9600",
+            "channel_value_0": 200,
+            "channel_value_1": 200,
+            "channel_value_2": 200,
+            "channel_value_3": 200,
+            "controller": "LCPController",
+            "delay": 130
+        },
+        "system": {
+            "log_dir": "",
+            "log_size": 0.0,
+            "auto_start": false,
+            "database_path": "database.db"
+        },
+        "io": {
+            "comport": "COM3",
+            "baudrate": "50",
+            "delay": "10"
+        },
+        "scanner": {
+            "comport": "COM12",
+            "baudrate": "50"
+        },
+        "send_data": {
+            "comport": "COM60",
+            "baudrate": "9600"
+        }
+    }
+}

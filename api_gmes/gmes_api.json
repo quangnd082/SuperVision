@@ -1,0 +1,1203 @@
+[
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237829"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR8Z4RGK1",
+          "basicModelCode": "SFG-ARR8Z",
+          "pbaPcs": "01-",
+          "pcbPcs": "-",
+          "prodcPlanYmd": "20250214"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V237829"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y22502821",
+          "modelCode": "SFG-ARR8Z4RGK1",
+          "erpSalOrdNo": "1250205660",
+          "boxCode": "EP69-01631A",
+          "pallCnstQty": "8",
+          "pallPrtQty": "0",
+          "loadFloorNum": "4",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237829",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V237829",
+          "enb": "Y",
+          "appearance": "Y",
+          "mainTest": "Y",
+          "pbaTest": "",
+          "airLeak": "Y",
+          "testStatus": "Y"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.13",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR8Z4RGK1",
+      "basicModelCode": "SFG-ARR8Z",
+      "pbaPcs": "01-",
+      "pcbPcs": "-",
+      "prodcPlanYmd": "20250214"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y22502821",
+      "modelCode": "SFG-ARR8Z4RGK1",
+      "erpSalOrdNo": "1250205660",
+      "boxCode": "EP69-01631A",
+      "pallCnstQty": "8",
+      "pallPrtQty": "0",
+      "loadFloorNum": "4",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V237829",
+      "enb": "Y",
+      "appearance": "Y",
+      "mainTest": "Y",
+      "pbaTest": "",
+      "airLeak": "Y",
+      "testStatus": "Y"
+    }
+  },
+
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237830"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR8Z4RGK1",
+          "basicModelCode": "SFG-ARR8Z",
+          "pbaPcs": "01-",
+          "pcbPcs": "-",
+          "prodcPlanYmd": "20250215"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V237830"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y22502822",
+          "modelCode": "SFG-ARR8Z4RGK1",
+          "erpSalOrdNo": "1250205661",
+          "boxCode": "EP69-01631A",
+          "pallCnstQty": "8",
+          "pallPrtQty": "0",
+          "loadFloorNum": "4",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237830",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V237830",
+          "enb": "Y",
+          "appearance": "Y",
+          "mainTest": "Y",
+          "pbaTest": "",
+          "airLeak": "Y",
+          "testStatus": "Y"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.13",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR8Z4RGK1",
+      "basicModelCode": "SFG-ARR8Z",
+      "pbaPcs": "01-",
+      "pcbPcs": "-",
+      "prodcPlanYmd": "20250215"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y22502822",
+      "modelCode": "SFG-ARR8Z4RGK1",
+      "erpSalOrdNo": "1250205661",
+      "boxCode": "EP69-01631A",
+      "pallCnstQty": "8",
+      "pallPrtQty": "0",
+      "loadFloorNum": "4",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V237830",
+      "enb": "Y",
+      "appearance": "Y",
+      "mainTest": "Y",
+      "pbaTest": "",
+      "airLeak": "Y",
+      "testStatus": "Y"
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237831"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR8Z4RGK2",
+          "basicModelCode": "SFG-ARR8Z",
+          "pbaPcs": "01-",
+          "pcbPcs": "-",
+          "prodcPlanYmd": "20250216"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V237831"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y22502823",
+          "modelCode": "SFG-ARR8Z4RGK2",
+          "erpSalOrdNo": "1250205662",
+          "boxCode": "EP69-01631B",
+          "pallCnstQty": "8",
+          "pallPrtQty": "0",
+          "loadFloorNum": "3",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237831",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V237831",
+          "enb": "Y",
+          "appearance": "Y",
+          "mainTest": "Y",
+          "pbaTest": "Y",
+          "airLeak": "Y",
+          "testStatus": "Y"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.14",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR8Z4RGK2",
+      "basicModelCode": "SFG-ARR8Z",
+      "pbaPcs": "01-",
+      "pcbPcs": "-",
+      "prodcPlanYmd": "20250216"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y22502823",
+      "modelCode": "SFG-ARR8Z4RGK2",
+      "erpSalOrdNo": "1250205662",
+      "boxCode": "EP69-01631B",
+      "pallCnstQty": "8",
+      "pallPrtQty": "0",
+      "loadFloorNum": "3",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V237831",
+      "enb": "Y",
+      "appearance": "Y",
+      "mainTest": "Y",
+      "pbaTest": "Y",
+      "airLeak": "Y",
+      "testStatus": "Y"
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237832"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR8Z4RGK3",
+          "basicModelCode": "SFG-ARR8Z",
+          "pbaPcs": "02-",
+          "pcbPcs": "-",
+          "prodcPlanYmd": "20250217"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V237832"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y22502824",
+          "modelCode": "SFG-ARR8Z4RGK3",
+          "erpSalOrdNo": "1250205663",
+          "boxCode": "EP69-01631C",
+          "pallCnstQty": "8",
+          "pallPrtQty": "0",
+          "loadFloorNum": "2",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237832",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V237832",
+          "enb": "Y",
+          "appearance": "Y",
+          "mainTest": "Y",
+          "pbaTest": "N",
+          "airLeak": "Y",
+          "testStatus": "Y"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.15",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR8Z4RGK3",
+      "basicModelCode": "SFG-ARR8Z",
+      "pbaPcs": "02-",
+      "pcbPcs": "-",
+      "prodcPlanYmd": "20250217"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y22502824",
+      "modelCode": "SFG-ARR8Z4RGK3",
+      "erpSalOrdNo": "1250205663",
+      "boxCode": "EP69-01631C",
+      "pallCnstQty": "8",
+      "pallPrtQty": "0",
+      "loadFloorNum": "2",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V237832",
+      "enb": "Y",
+      "appearance": "Y",
+      "mainTest": "Y",
+      "pbaTest": "N",
+      "airLeak": "Y",
+      "testStatus": "Y"
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237833"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR9Z4RGK1",
+          "basicModelCode": "SFG-ARR9Z",
+          "pbaPcs": "01-",
+          "pcbPcs": "1",
+          "prodcPlanYmd": "20250218"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V237833"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y22502825",
+          "modelCode": "SFG-ARR9Z4RGK1",
+          "erpSalOrdNo": "1250205664",
+          "boxCode": "EP69-01632A",
+          "pallCnstQty": "6",
+          "pallPrtQty": "0",
+          "loadFloorNum": "4",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237833",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V237833",
+          "enb": "Y",
+          "appearance": "N",
+          "mainTest": "Y",
+          "pbaTest": "Y",
+          "airLeak": "Y",
+          "testStatus": "N"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.16",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR9Z4RGK1",
+      "basicModelCode": "SFG-ARR9Z",
+      "pbaPcs": "01-",
+      "pcbPcs": "1",
+      "prodcPlanYmd": "20250218"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y22502825",
+      "modelCode": "SFG-ARR9Z4RGK1",
+      "erpSalOrdNo": "1250205664",
+      "boxCode": "EP69-01632A",
+      "pallCnstQty": "6",
+      "pallPrtQty": "0",
+      "loadFloorNum": "4",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V237833",
+      "enb": "Y",
+      "appearance": "N",
+      "mainTest": "Y",
+      "pbaTest": "Y",
+      "airLeak": "Y",
+      "testStatus": "N"
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237834"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR9Z4RGK2",
+          "basicModelCode": "SFG-ARR9Z",
+          "pbaPcs": "02-",
+          "pcbPcs": "1",
+          "prodcPlanYmd": "20250219"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V237834"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y22502826",
+          "modelCode": "SFG-ARR9Z4RGK2",
+          "erpSalOrdNo": "1250205665",
+          "boxCode": "EP69-01632B",
+          "pallCnstQty": "6",
+          "pallPrtQty": "0",
+          "loadFloorNum": "3",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237834",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V237834",
+          "enb": "Y",
+          "appearance": "Y",
+          "mainTest": "N",
+          "pbaTest": "Y",
+          "airLeak": "Y",
+          "testStatus": "N"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.17",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR9Z4RGK2",
+      "basicModelCode": "SFG-ARR9Z",
+      "pbaPcs": "02-",
+      "pcbPcs": "1",
+      "prodcPlanYmd": "20250219"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y22502826",
+      "modelCode": "SFG-ARR9Z4RGK2",
+      "erpSalOrdNo": "1250205665",
+      "boxCode": "EP69-01632B",
+      "pallCnstQty": "6",
+      "pallPrtQty": "0",
+      "loadFloorNum": "3",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V237834",
+      "enb": "Y",
+      "appearance": "Y",
+      "mainTest": "N",
+      "pbaTest": "Y",
+      "airLeak": "Y",
+      "testStatus": "N"
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V267404"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR8Z4RGK1",
+          "basicModelCode": "SFG-ARR7Z",
+          "pbaPcs": "01-",
+          "pcbPcs": "2",
+          "prodcPlanYmd": "20250220"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V267404"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y22600240",
+          "modelCode": "SFG-ARR8Z4RGK1",
+          "erpSalOrdNo": "1250205666",
+          "boxCode": "EP69-01633A",
+          "pallCnstQty": "10",
+          "pallPrtQty": "0",
+          "loadFloorNum": "2",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V267404",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V267404",
+          "enb": "N",
+          "appearance": "Y",
+          "mainTest": "Y",
+          "pbaTest": "Y",
+          "airLeak": "Y",
+          "testStatus": "N"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.18",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR8Z4RGK1",
+      "basicModelCode": "SFG-ARR7Z",
+      "pbaPcs": "01-",
+      "pcbPcs": "2",
+      "prodcPlanYmd": "20250220"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y22600240",
+      "modelCode": "SFG-ARR8Z4RGK1",
+      "erpSalOrdNo": "1250205666",
+      "boxCode": "EP69-01633A",
+      "pallCnstQty": "10",
+      "pallPrtQty": "0",
+      "loadFloorNum": "2",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V267404",
+      "enb": "N",
+      "appearance": "Y",
+      "mainTest": "Y",
+      "pbaTest": "Y",
+      "airLeak": "Y",
+      "testStatus": "N"
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V407806"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR57201VW",
+          "basicModelCode": "SFG-ARR7Z",
+          "pbaPcs": "02-",
+          "pcbPcs": "2",
+          "prodcPlanYmd": "20250221"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V407806"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y40301367",
+          "modelCode": "SFG-ARR57201VW",
+          "erpSalOrdNo": "1250205667",
+          "boxCode": "EP69-01633B",
+          "pallCnstQty": "10",
+          "pallPrtQty": "0",
+          "loadFloorNum": "1",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V407806",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V407806",
+          "enb": "Y",
+          "appearance": "Y",
+          "mainTest": "Y",
+          "pbaTest": "Y",
+          "airLeak": "N",
+          "testStatus": "N"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.19",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR57201VW",
+      "basicModelCode": "SFG-ARR7Z",
+      "pbaPcs": "02-",
+      "pcbPcs": "2",
+      "prodcPlanYmd": "20250221"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y40301367",
+      "modelCode": "SFG-ARR57201VW",
+      "erpSalOrdNo": "1250205667",
+      "boxCode": "EP69-01633B",
+      "pallCnstQty": "10",
+      "pallPrtQty": "0",
+      "loadFloorNum": "1",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V407806",
+      "enb": "Y",
+      "appearance": "Y",
+      "mainTest": "Y",
+      "pbaTest": "Y",
+      "airLeak": "N",
+      "testStatus": "N"
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V412822"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR97001VI",
+          "basicModelCode": "SFG-ARR8Z",
+          "pbaPcs": "01-",
+          "pcbPcs": "-",
+          "prodcPlanYmd": "20250222"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V412822"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y40400002",
+          "modelCode": "SFG-ARR97001VI",
+          "erpSalOrdNo": "1250205668",
+          "boxCode": "EP69-01634A",
+          "pallCnstQty": "8",
+          "pallPrtQty": "0",
+          "loadFloorNum": "5",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V412822",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V412822",
+          "enb": "Y",
+          "appearance": "Y",
+          "mainTest": "Y",
+          "pbaTest": "Y",
+          "airLeak": "Y",
+          "testStatus": "Y"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.20",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR97001VI",
+      "basicModelCode": "SFG-BRR8Z",
+      "pbaPcs": "01-",
+      "pcbPcs": "-",
+      "prodcPlanYmd": "20250222"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y40400002",
+      "modelCode": "SFG-ARR97001VI",
+      "erpSalOrdNo": "1250205668",
+      "boxCode": "EP69-01634A",
+      "pallCnstQty": "8",
+      "pallPrtQty": "0",
+      "loadFloorNum": "5",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V412822",
+      "enb": "Y",
+      "appearance": "Y",
+      "mainTest": "Y",
+      "pbaTest": "Y",
+      "airLeak": "Y",
+      "testStatus": "Y"
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V407776"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SFG-ARR26301VZ",
+          "basicModelCode": "SFG-ARR8Z",
+          "pbaPcs": "02-",
+          "pcbPcs": "-",
+          "prodcPlanYmd": "20250223"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V407776"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y40300080",
+          "modelCode": "SFG-ARR26301VZ",
+          "erpSalOrdNo": "1250205669",
+          "boxCode": "EP69-01634B",
+          "pallCnstQty": "8",
+          "pallPrtQty": "0",
+          "loadFloorNum": "5",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V407776",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V407776",
+          "enb": "Y",
+          "appearance": "Y",
+          "mainTest": "Y",
+          "pbaTest": "",
+          "airLeak": "Y",
+          "testStatus": "Y"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.21",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SFG-ARR26301VZ",
+      "basicModelCode": "SFG-ARR8Z",
+      "pbaPcs": "02-",
+      "pcbPcs": "-",
+      "prodcPlanYmd": "20250223"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y40300080",
+      "modelCode": "SFG-ARR26301VZ",
+      "erpSalOrdNo": "1250205669",
+      "boxCode": "EP69-01634B",
+      "pallCnstQty": "8",
+      "pallPrtQty": "0",
+      "loadFloorNum": "5",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V407776",
+      "enb": "Y",
+      "appearance": "Y",
+      "mainTest": "Y",
+      "pbaTest": "",
+      "airLeak": "Y",
+      "testStatus": "Y"
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkModelInfoSVO": {
+      "mcNetworkModelInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V237829"
+      },
+      "mcNetworkModelInfo02DVO": [
+        {
+          "modelCode": "SLS-BR070M01L1",
+          "basicModelCode": "SFG-ARR8Z",
+          "pbaPcs": "01-",
+          "pcbPcs": "-",
+          "prodcPlanYmd": "20250214"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "com_samsung_gmes2_mc_cmm_biz_ppd_vo_McNetworkLoadInfoSVO": {
+      "McNetworkLoadInfo01DVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "packBoxNo": "S51V237829"
+      },
+      "McNetworkLoadInfo02DVO": [
+        {
+          "packBoxNo": "CARP514Y22502821",
+          "modelCode": "SLS-BR070M01L1",
+          "erpSalOrdNo": "1250205660",
+          "boxCode": "EP69-01631A",
+          "pallCnstQty": "8",
+          "pallPrtQty": "0",
+          "loadFloorNum": "4",
+          "cartonCnstQty": "1",
+          "cartonPrtQty": "1"
+        }
+      ],
+      "anyframeDVO": {
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+
+  {
+    "com_samsung_gmes2_pm_jsn_vo_PmProcInspResultJSONSVO": {
+      "inputDVO": {
+        "fctCode": "C5H0A",
+        "plantCode": "P514",
+        "nmgNo": "S51V396924",
+        "workGubunCode": "ALL"
+      },
+      "outputDVOList": [
+        {
+          "sn": "S51V396924",
+          "enb": "Y",
+          "appearance": "Y",
+          "mainTest": "Y",
+          "pbaTest": "",
+          "airLeak": "Y",
+          "testStatus": "Y"
+        }
+      ],
+      "errorDVO": {
+        "error": "No error"
+      },
+      "anyframeDVO": {
+        "appName": "com.samsung.gmes2.pm.jsn.app.PmProcInspResultJSONApp",
+        "methodName": "getProcInspResult",
+        "inputSVOName": "com.samsung.gmes2.pm.jsn.vo.PmProcInspResultJSONSVO",
+        "clientIPAddr": "107.107.80.13",
+        "pageNo": "0",
+        "pageRowCount": "0"
+      }
+    }
+  },
+  {
+    "modelInfo": {
+      "modelCode": "SLS-BR070M01L1",
+      "basicModelCode": "SLS-ARR8Z",
+      "pbaPcs": "01-",
+      "pcbPcs": "-",
+      "prodcPlanYmd": "20250214"
+    },
+    "boxInfo": {
+      "packBoxNo": "CARP514Y40100100",
+      "modelCode": "SLS-BR070M01L1",
+      "erpSalOrdNo": "1250205660",
+      "boxCode": "EP69-01631A",
+      "pallCnstQty": "8",
+      "pallPrtQty": "0",
+      "loadFloorNum": "4",
+      "cartonCnstQty": "1",
+      "cartonPrtQty": "1"
+    },
+    "inspectionResults": {
+      "sn": "S51V396924",
+      "enb": "Y",
+      "appearance": "Y",
+      "mainTest": "Y",
+      "pbaTest": "",
+      "airLeak": "Y",
+      "testStatus": "Y"
+    }
+  }
+]

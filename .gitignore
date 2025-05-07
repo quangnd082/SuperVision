@@ -1,0 +1,41 @@
+# Bỏ qua thư mục ảo của Python
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+ImageCapture/
+
+
+# Bỏ qua file môi trường
+.env
+
+# Bỏ qua file log, cache
+*.log
+*.sqlite3
+Preprocessing/
+Log_Vision/
+OCDURack/
+ImageRaw/
+res/Database/Images/
+res/Database
+settings.ini
+comment.txt
+remote_io_controller_v2.py
+remote_io_controller_v3.py
+libs/IOController.py
+libs/IOController2.py
+libs/IOController3.py
+libs/IOController4.py
+BaseHandle/test2.py
+BaseHandle/test3.py
+res/Style/test.qss
+res/Style/test2.qss
+test.py
+test2.py
+test3.py
+test4.py
+runs/
+TestModel/

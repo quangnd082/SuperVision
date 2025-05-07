@@ -1,0 +1,544 @@
+QPushButton#but_start_auto {
+    background-color: green;
+    color: white;
+}
+QPushButton#but_start_auto:hover {
+    background-color: #00cc00; /* Màu xanh sáng hơn khi hover */
+}
+QPushButton#but_start_auto:pressed {
+    background-color: #008000; /* Màu tối hơn khi nhấn */
+}
+
+QPushButton#but_start_auto:disabled  {
+    background-color: #b0b0b0;
+    color: #666;
+}
+
+QPushButton#but_stop_auto {
+    background-color: red;
+    color: white;
+}
+QPushButton#but_stop_auto:hover {
+    background-color: #ff6666; /* Màu đỏ sáng hơn khi hover */
+}
+QPushButton#but_stop_auto:pressed {
+    background-color: #cc0000; /* Màu đỏ tối hơn khi nhấn */
+}
+
+QPushButton#but_stop_auto:disabled  {
+    background-color: #b0b0b0;
+    color: #666;
+}
+
+QPushButton#but_reset_auto {
+    background-color: blue;
+    color: white;
+}
+QPushButton#but_reset_auto:hover {
+    background-color: #3399ff; /* Màu xanh sáng hơn khi hover */
+}
+QPushButton#but_reset_auto:pressed {
+    background-color: #0000cc; /* Màu xanh tối hơn khi nhấn */
+}
+
+QPushButton#but_save_teaching {
+    background-color: blue;
+    color: white;
+}
+QPushButton#but_save_teaching:hover {
+    background-color: #3399ff; /* Màu xanh sáng hơn khi hover */
+}
+QPushButton#but_save_teaching:pressed {
+    background-color: #0000cc; /* Màu xanh tối hơn khi nhấn */
+}
+
+QPushButton#but_add {
+    background-color: green;
+    color: white;
+}
+QPushButton#but_add:hover {
+    background-color: #00cc00;
+}
+QPushButton#but_add:pressed {
+    background-color: #008000;
+}
+
+QPushButton#but_del {
+    background-color: red;
+    color: white;
+}
+QPushButton#but_del:hover {
+    background-color: #ff6666;
+}
+QPushButton#but_del:pressed {
+    background-color: #cc0000;
+}
+
+
+
+
+
+
+
+QPushButton#but_open_io_controller {
+    background-color: green;
+    color: white;
+}
+
+QPushButton#but_open_io_controller[status="Close"] {
+    background-color: red;
+}
+
+QPushButton#but_open_io_controller:hover[status="Close"] {
+    background-color: #a50101;
+}
+QPushButton#but_open_io_controller:pressed[status="Close"] {
+    background-color: #6c0101;
+}
+
+QPushButton#but_open_io_controller:hover {
+    background-color: #00cc00;
+}
+QPushButton#but_open_io_controller:pressed {
+    background-color: #008000;
+}
+
+
+
+
+QPushButton#but_open_camera_teaching {
+    background-color: blue;
+    color: white;
+}
+
+QPushButton#but_open_camera_teaching[status="Close"] {
+    background-color: red;
+}
+
+QPushButton#but_open_camera_teaching:hover[status="Close"] {
+    background-color: #a50101;
+}
+QPushButton#but_open_camera_teaching:pressed[status="Close"] {
+    background-color: #6c0101;
+}
+
+QPushButton#but_open_camera_teaching:hover {
+    background-color: #3399ff;
+}
+QPushButton#but_open_camera_teaching:pressed {
+    background-color: #0000cc;
+}
+
+QPushButton#but_start_camera_teaching {
+    background-color: green;
+    color: white;
+}
+
+QPushButton#but_start_camera_teaching:disabled  {
+    background-color: #b0b0b0;
+    color: #666;
+}
+
+QPushButton#but_start_camera_teaching[status="Close"] {
+    background-color: red;
+}
+
+QPushButton#but_start_camera_teaching:hover[status="Close"] {
+    background-color: #a50101;
+}
+QPushButton#but_start_camera_teaching:pressed[status="Close"] {
+    background-color: #6c0101;
+}
+
+QPushButton#but_start_camera_teaching:hover {
+    background-color: #00cc00;
+}
+QPushButton#but_start_camera_teaching:pressed {
+    background-color: #008000;
+}
+
+
+QPushButton#but_open_light {
+    background-color: green;
+    color: white;
+}
+
+QPushButton#but_open_light[status="Close"] {
+    background-color: red;
+}
+
+QPushButton#but_open_light:hover[status="Close"] {
+    background-color: #a50101;
+}
+QPushButton#but_open_light:pressed[status="Close"] {
+    background-color: #6c0101;
+}
+
+QPushButton#but_open_light:hover {
+    background-color: #00cc00;
+}
+QPushButton#but_open_light:pressed {
+    background-color: #008000;
+}
+
+
+QPushButton#but_connect_server {
+    background-color: green;
+    color: white;
+}
+
+QPushButton#but_connect_server[status="Close"] {
+    background-color: red;
+}
+
+QPushButton#but_connect_server:hover[status="Close"] {
+    background-color: #a50101;
+}
+QPushButton#but_connect_server:pressed[status="Close"] {
+    background-color: #6c0101;
+}
+
+QPushButton#but_connect_server:hover {
+    background-color: #00cc00;
+}
+QPushButton#but_connect_server:pressed {
+    background-color: #008000;
+}
+
+
+QPushButton#but_connect_scanner {
+    background-color: green;
+    color: white;
+}
+
+QPushButton#but_connect_scanner[status="Close"] {
+    background-color: red;
+}
+
+QPushButton#but_connect_scanner:hover[status="Close"] {
+    background-color: #a50101;
+}
+QPushButton#but_connect_scanner:pressed[status="Close"] {
+    background-color: #6c0101;
+}
+
+QPushButton#but_connect_scanner:hover {
+    background-color: #00cc00;
+}
+QPushButton#but_connect_scanner:pressed {
+    background-color: #008000;
+}
+
+QPushButton#but_connect_scanner {
+    background-color: green;
+    color: white;
+}
+
+
+
+QPushButton#but_open_com_send_data[status="Close"] {
+    background-color: red;
+}
+
+QPushButton#but_open_com_send_data:hover[status="Close"] {
+    background-color: #a50101;
+}
+QPushButton#but_open_com_send_data:pressed[status="Close"] {
+    background-color: #6c0101;
+}
+
+QPushButton#but_open_com_send_data:hover {
+    background-color: #00cc00;
+}
+QPushButton#but_open_com_send_data:pressed {
+    background-color: #008000;
+}
+
+QPushButton#but_open_com_send_data {
+    background-color: green;
+    color: white;
+}
+
+
+
+
+QLabel[status="WAIT"] {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+QLabel[status="PASS"] {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+QLabel[status="FAIL"] {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Button với phong cách macOS */
+QPushButton {
+    background-color: #E5E5E5;
+    border: 2px solid #D0D0D0;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+QPushButton:hover {
+    background-color: #DADADA;
+}
+
+QPushButton:pressed {
+    background-color: #C0C0C0;
+}
+
+/* Nút bấm */
+QMessageBox QPushButton {
+    background-color: #007AFF;
+    color: white;
+    border-radius: 8px;
+    padding: 6px 36px;  /* Nút lớn hơn */
+}
+
+/* Hover & Click */
+QMessageBox QPushButton:hover {
+    background-color: #005BBB;
+}
+
+QMessageBox QPushButton:pressed {
+    background-color: #003F7F;
+}
+
+
+
+QTabWidget#tab_widget_main::pane {
+    border: 2px solid #87CEEB; /* Viền xanh da trời */
+    border-radius: 12px; /* Bo góc tròn */
+    background: white;
+    padding: 10px;
+}
+
+/* Tabs */
+QTabBar::tab {
+    background: #ADD8E6; /* Xanh da trời nhạt */
+    border: 2px solid #87CEEB;
+    padding: 5px 15px;
+    border-radius: 12px; /* Bo góc */
+    margin: 4px;
+}
+
+/* Khi tab được chọn */
+QTabBar::tab:selected {
+    background: white;
+    border-bottom: 3px solid #007AFF; /* Đường viền xanh đậm */
+}
+
+/* Khi hover vào tab */
+QTabBar::tab:hover {
+    background: #87CEEB; /* Xanh sáng hơn khi hover */
+}
+
+QComboBox {
+    background-color: white;
+    border: 2px solid #CCCCCC;
+    padding: 6px;
+    border-radius: 12px;
+    min-width: 50px;
+}
+
+QComboBox:hover {
+    border-color: #AAAAAA;
+}
+
+/* Khi mở ComboBox */
+QComboBox:on {
+    background-color: #E0E0E0;
+}
+
+/* Danh sách thả xuống */
+QComboBox QAbstractItemView {
+    background-color: #FFFFFF;
+    border: 2px solid #CCCCCC;
+    selection-background-color: #007AFF;
+    selection-color: white;
+    border-radius: 8px;
+}
+
+/* Khi hover vào mục trong danh sách */
+QComboBox QAbstractItemView::item:hover {
+    background-color: #B3D7FF;  /* Màu xanh nhạt hơn */
+    color: black;  /* Giữ màu chữ đen để rõ ràng */
+}
+
+/* Khi mục được chọn */
+QComboBox QAbstractItemView::item:selected {
+    background-color: #007AFF;
+    color: white;  /* Giữ nguyên chữ trắng cho mục đã chọn */
+}
+
+
+/* ==================== Mũi tên của ComboBox ==================== */
+QComboBox::drop-down {
+    border-radius: 10px;
+    border: none;
+    width: 40px;
+    background: #E0E0E0;
+}
+
+
+
+/* ==================== SpinBox & DoubleSpinBox ==================== */
+QSpinBox, QDoubleSpinBox {
+    background-color: white;
+    border: 2px solid #87CEEB;
+    border-radius: 12px; /* Bo góc tròn */
+}
+
+/* Khi hover vào SpinBox & DoubleSpinBox */
+QSpinBox:hover, QDoubleSpinBox:hover {
+    border-color: #4682B4;
+}
+
+/* Khi SpinBox & DoubleSpinBox được focus */
+QSpinBox:focus, QDoubleSpinBox:focus {
+    border-color: #007AFF;
+}
+
+/* ==================== LineEdit ==================== */
+QLineEdit {
+    background-color: white;
+    border: 2px solid #87CEEB;
+    border-radius: 12px; /* Bo góc tròn */
+    min-width: 50px;
+}
+
+/* Khi hover vào LineEdit */
+QLineEdit:hover {
+    border-color: #4682B4;
+}
+
+/* Khi LineEdit được focus */
+QLineEdit:focus {
+    border-color: #007AFF;
+}
+
+
+QMenuBar {
+    background-color: #ffffff; /* Xanh nhạt */
+    padding: 2px 10px;
+    border-bottom: 2px solid #81D4FA; /* Xanh nước biển nhạt */
+}
+
+/* Các item trong menu */
+QMenuBar::item {
+    background-color: transparent;
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: #01579B; /* Xanh đậm */
+}
+
+/* Hover: đổi màu nhẹ */
+QMenuBar::item:hover {
+    background-color: #81D4FA;
+    color: white;
+    transition: background 0.3s ease-in-out;
+}
+
+/* Khi nhấn */
+QMenuBar::item:pressed {
+    background-color: #0288D1; /* Xanh nước biển đậm */
+    color: white;
+}
+
+/* Menu thả xuống */
+QMenu {
+    background-color: #ffffff;
+    border: 2px solid #81D4FA;
+    border-radius: 8px;
+}
+
+/* Item trong menu */
+QMenu::item {
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+
+/* Hover vào item */
+QMenu::item:selected {
+    background-color: #81D4FA;
+    color: white;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top center;
+    padding: 5px 15px;
+    background-color: #ADD8E6; /* Màu nền xanh nhạt */
+    border-radius: 8px;
+}
+
+QGroupBox {
+    font-weight: bold;
+}
+
+/* Nền & Font tổng thể */
+QMainWindow {
+    background-color: #F0F0F0;
+    color: #333;
+    /* font-family: -apple-system, "Helvetica Neue", "Arial", sans-serif; */
+    font-family: "Comic Sans MS", "Arial", sans-serif;
+    font-size: 22px;
+}
+
+QWidget {
+    color: #333;
+    font-size: 22px;
+    /* background-color: white; */
+}
+
+QToolBox, QToolBox QWidget {
+    background-color: white;
+}
+
+/* Vùng chứa chính của QToolBox */
+QToolBox {
+    background: white;
+    border: 2px solid #87CEEB;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+/* Các tab */
+QToolBox::tab {
+    background: #ADD8E6;
+    color: black;
+    border: 2px solid #87CEEB;
+    border-radius: 12px;
+    padding: 5px 15px;
+    
+}
+
+/* Tab đang được chọn */
+QToolBox::tab:selected {
+    background: white;
+    color: black;
+    border-bottom: 3px solid #007AFF;
+}
+
+/* Hover tab (hiệu ứng khi di chuột qua) */
+QToolBox::tab:hover {
+    background: #87CEEB;
+}
+
+
+
